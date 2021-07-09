@@ -1,6 +1,6 @@
 const quotes = [
     {
-        quote: "삶이 있는 한 희망은 있다.",
+        quotes: "삶이 있는 한 희망은 있다.",
         author: "키케로"
     },
     {
